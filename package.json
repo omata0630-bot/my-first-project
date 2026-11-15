@@ -1,0 +1,9 @@
+{
+  "name": "salon-gas",
+  "private": true,
+  "description": "美容サロン 売上・顧客管理の自動化（Google Apps Script）",
+  "scripts": {
+    "test": "TZ=Asia/Tokyo node --test test/",
+    "push": "clasp push"
+  }
+}
